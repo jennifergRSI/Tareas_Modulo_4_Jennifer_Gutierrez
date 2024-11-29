@@ -1,0 +1,8 @@
+solution/src/.env
+venv
+
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore all .pytest_cache directories
+.pytest_cache
